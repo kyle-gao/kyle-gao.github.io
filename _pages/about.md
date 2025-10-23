@@ -8,7 +8,7 @@ redirect_from:
 ---
 ## About
 
-I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**.  
+I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**. I completed my PhD in Systems Design Engineering at the University of Waterloo in May 2025. I have a background in mathematical physics from my undergraduate and master’s studies.
 My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D reconstruction**, where I explore how large language models can enhance spatial understanding and environmental monitoring.  
 
 I’ve authored and co-authored over **thirty-seven peer-reviewed papers**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
@@ -16,21 +16,21 @@ My current work focuses on building **intelligent, multimodal systems for remote
 
 ## Recent Highlights
 
-### September 3, 2025 — *IEEE Transactions on Geoscience and Remote Sensing*
+### September 3, 2025 — *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
 **Publication:** *Exploring Token Serialization for Mamba-based LiDAR Point Cloud Segmentation*  
 I’m thrilled to share that this paper I co-authored has been accepted for publication in **IEEE TGRS**!  
 Thank you to the first author, my friend and colleague, **Dr. Dening Lu**.
 
 ---
 
-### September 2, 2025 — *IEEE Geoscience and Remote Sensing Letters*  
+### September 2, 2025 — *IEEE Geoscience and Remote Sensing Letters (GSRL)*  
 **Publication:** *Digital Buildings Analysis: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform*  
 My first-authored paper has been published in **IEEE GRSL**.  
 I would like to thank my coauthors for their excellent collaboration and contributions.
 
 ---
 
-### August 19, 2025 — *International Journal of Applied Earth Observation and Geoinformation*  
+### August 19, 2025 — *International Journal of Applied Earth Observation and Geoinformation (JAG)*  
 **Publication:** *Instructor–Worker Large Language Model System for Policy Recommendation: A Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires*  
 This first-authored study integrates **Google Maps data** and **Large Language Models** to analyze air quality impacts from the January 2025 Los Angeles wildfires, and was published in **JAG** 
 My thoughts go to all affected by this tragic event.
