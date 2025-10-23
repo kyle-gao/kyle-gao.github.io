@@ -39,7 +39,8 @@ I would like to thank my coauthors for their excellent collaboration and contrib
 
 ### August 19, 2025 — *International Journal of Applied Earth Observation and Geoinformation (JAG)*  
 **Publication:** *Instructor–Worker Large Language Model System for Policy Recommendation: A Case Study on Air Quality Analysis of the January 2025 Los Angeles Wildfires*  
-This first-authored study integrates **Google Maps data** and **Large Language Models** to analyze air quality impacts from the January 2025 Los Angeles wildfires, and was published in **JAG** 
+This first-authored study integrates **Google Maps data** and **Large Language Models** to analyze air quality impacts from the January 2025 Los Angeles wildfires, and was published in **JAG**.
+ 
 My thoughts go to all affected by this tragic event.
 
 ---
