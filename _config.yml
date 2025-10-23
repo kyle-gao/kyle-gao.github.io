@@ -1,9 +1,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kyle Gao - Remote Sensing and 3D Vision"
+title                    : "Kyle Gao, PhD - Remote Sensing and 3D Vision"
 title_separator          : "-"
-name                     : &name "Kyle Gao"
+name                     : &name "Kyle Gao, PhD"
 description              : &description "Postdoctoral Fellow at University of Waterloo. GeoAI, Remote Sensing, 3D Reconstruction."
 url                      : https://kyle-gao.github.io
 baseurl                  : ""
