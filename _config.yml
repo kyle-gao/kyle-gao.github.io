@@ -13,7 +13,7 @@ repository               : "https://github.com/kyle-gao/kyle-gao.github.io"  # U
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Kyle Gao"
+  name             : "Dr. Kyle Gao"
   pronouns         :
   bio              : "Research in remote sensing, GeoAI, and urban 3D modeling. Large Language Models for scene understanding."
   location         : "Waterloo, Canada"
