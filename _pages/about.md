@@ -15,6 +15,13 @@ I’ve authored and co-authored over **thirty-seven peer-reviewed papers**, incl
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, and language for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+### October 1, 2025 — *Photogrammetric Engineering & Remote Sensing*  
+I am hosting a **special issue** in *Photogrammetric Engineering & Remote Sensing* titled  
+**“Large Language Models in Remote Sensing: Across Different Modalities”**,  
+together with **Dr. Dening Lu** and **Prof. Linlin Xu**.  
+
+📅 **Submission deadline:** November 1, 2026  
+📄 See the call for papers [here](/files/PERS_SpecialIssue.pdf).
 
 ### September 3, 2025 — *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
 **Publication:** *Exploring Token Serialization for Mamba-based LiDAR Point Cloud Segmentation*  
