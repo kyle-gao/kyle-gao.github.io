@@ -14,6 +14,7 @@ My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D 
 I’ve authored and co-authored over **thirty-eight peer-reviewed papers (seven first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, and language for applications in both urban digital twins and environmental management.
 
+---
 ## Recent Highlights
 
 ### September 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
@@ -21,6 +22,7 @@ My current work focuses on building **intelligent, multimodal systems for remote
 As the first author, I am excited to share my paper which was accepted for publication in Remote Sensing Applications: Society and Environment.
 By leveraging Google Earth Studio and Gaussian Splatting, my work introduces a way to extract the 3D mesh of a building using only its address!
 
+---
 
 ### October 1, 2025 — *Photogrammetric Engineering & Remote Sensing*  
 I am hosting a **special issue** in *Photogrammetric Engineering & Remote Sensing* titled  
