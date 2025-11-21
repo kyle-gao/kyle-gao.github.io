@@ -11,10 +11,17 @@ redirect_from:
 I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**. I completed my PhD in Systems Design Engineering at the University of Waterloo in May 2025. I have a background in mathematical physics from my undergraduate and master’s studies.
 My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D reconstruction**, where I explore how Gaussian Splatting and large language models can enhance spatial understanding and environmental monitoring.  
 
-I’ve authored and co-authored over **thirty-seven peer-reviewed papers**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
+I’ve authored and co-authored over **thirty-eight peer-reviewed papers (seven first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, and language for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+
+### September 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
+**Publication:** *Gaussian Building Mesh (GBM): Extract a building’s 3D mesh with Google Earth and Gaussian Splatting*  
+As the first author, I am excited to share my paper which was accepted for publication in Remote Sensing Applications: Society and Environment.
+By leveraging Google Earth Studio and Gaussian Splatting, my work introduces a way to extract the 3D mesh of a building using only its address!
+
+
 ### October 1, 2025 — *Photogrammetric Engineering & Remote Sensing*  
 I am hosting a **special issue** in *Photogrammetric Engineering & Remote Sensing* titled  
 **“Large Language Models in Remote Sensing: Across Different Modalities”**,  
@@ -23,14 +30,14 @@ together with **Dr. Dening Lu** and **Prof. Linlin Xu**.
 📅 **Submission deadline:** November 1, 2026  
 📄 See the call for papers [here](/files/PERS_SpecialIssue.pdf).
 
-### September 3, 2025 — *IEEE Transactions on Geoscience and Remote Sensing (TGRS)*
+### September 3, 2025 — *IEEE Transactions on Geoscience and Remote Sensing (TGRS)* (SJR Q1, IF~8.6)  
 **Publication:** *Exploring Token Serialization for Mamba-based LiDAR Point Cloud Segmentation*  
 I’m thrilled to share that this paper I co-authored has been accepted for publication in **IEEE TGRS**!  
 Thank you to the first author, my friend and colleague, **Dr. Dening Lu**.
 
 ---
 
-### September 2, 2025 — *IEEE Geoscience and Remote Sensing Letters (GSRL)*  
+### September 2, 2025 — *IEEE Geoscience and Remote Sensing Letters (GSRL)* (SJR Q1, IF~4.4)   
 **Publication:** *Digital Buildings Analysis: 3D Modeling, GIS Integration, and Visual Descriptions Using Gaussian Splatting, ChatGPT/Deepseek, and Google Maps Platform*  
 My first-authored paper has been published in **IEEE GRSL**.  
 I would like to thank my coauthors for their excellent collaboration and contributions.
