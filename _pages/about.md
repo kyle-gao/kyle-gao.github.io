@@ -14,7 +14,6 @@ My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D 
 I’ve authored and co-authored over **thirty-eight peer-reviewed papers (seven first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, and language for applications in both urban digital twins and environmental management.
 
----
 ## Recent Highlights
 
 ### December 2025 — *IGARSS 2026*  
