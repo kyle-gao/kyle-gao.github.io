@@ -17,8 +17,10 @@ My current work focuses on building **intelligent, multimodal systems for remote
 ## Recent Highlights
 
 ### December 2025 — *IGARSS 2026*  
-IGARSS 2026 submissions are open. 📅 Deadline is January 10th, 2026.  
-📄 https://2026.ieeeigarss.org/papers.php
+IGARSS 2026 conference submissions are open. 
+
+📅 **Submission deadline:** January 10, 2026  
+📄 See the submission page https://2026.ieeeigarss.org/papers.php
 
 Consider submitting an abstract, full paper, or summary of a recently published article to my Community Contributed Theme CCT.77 D.7 "Advances in GeoAI systems for Wildfire Monitoring", which I am chairing together with Prof. Liangzhi Li and Prof. Linlin Xu.
 
