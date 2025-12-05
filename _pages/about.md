@@ -17,7 +17,7 @@ My current work focuses on building **intelligent, multimodal systems for remote
 ---
 ## Recent Highlights
 
-### October 2025 — *IGARSS 2026*  
+### December 2025 — *IGARSS 2026*  
 IGARSS 2026 submissions are open. 📅 Deadline is January 10th, 2026.  
 📄 https://2026.ieeeigarss.org/papers.php
 
@@ -26,7 +26,7 @@ Consider submitting an abstract, full paper, or summary of a recently published 
 See you in Washington, D.C., August 9 to 14, 2026!
 
 ---
-### September 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
+### November 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
 **Publication:** *Gaussian Building Mesh (GBM): Extract a building’s 3D mesh with Google Earth and Gaussian Splatting*  
 As the first author, I am excited to share my paper which was accepted for publication in Remote Sensing Applications: Society and Environment.
 By leveraging Google Earth Studio and Gaussian Splatting, my work introduces a way to extract the 3D mesh of a building using only its address!
