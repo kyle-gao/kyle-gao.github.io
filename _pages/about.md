@@ -27,6 +27,27 @@ Consider submitting an abstract, full paper, or summary of a recently published 
 See you in Washington, D.C., August 9 to 14, 2026!
 
 ---
+
+### February 2026 — *Computational Visual Media* (SJR Q1, IF~5.2)  
+**Publication:** *NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review*  
+As the first author, I am excited to share that our paper has been accepted for publication in Computational Visual Media, with **400+ citations** as of February 2026!  
+This work provides a comprehensive and systematic review of Neural Radiance Fields in 3D vision, covering theoretical foundations, architectural variants, optimization strategies, contextualization in the post-Gaussian Splatting era.
+
+---
+
+### 2026 — *International Journal of Applied Earth Observation and Geoinformation* (SJR Q1, IF~8.6)  
+**Publication:** *High-Accuracy Water Level Estimation Using Super-Resolution Sentinel-1 Data*  
+As a co-author, I am excited to share our paper which was accepted in International Journal of Applied Earth Observation and Geoinformation.  
+By leveraging super-resolution Sentinel-1 SAR imagery, our work presents a high-accuracy framework for water level estimation that enhances hydrological monitoring and flood risk assessment.
+
+---
+
+### January 2026 — *International Journal of Digital Earth* (SJR Q1, IF~4.9)  
+**Publication:** *SaLSE-net: a self-attention-based local structure enhancement network for landslide point cloud segmentation*  
+As a co-author, I am excited to share our paper which was published in International Journal of Digital Earth.  
+SaLSE-net introduces a self-attention-based local structure enhancement network for precise landslide point cloud segmentation under complex geomorphological conditions.
+
+---
 ### November 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
 **Publication:** *Gaussian Building Mesh (GBM): Extract a building’s 3D mesh with Google Earth and Gaussian Splatting*  
 As the first author, I am excited to share my paper which was accepted for publication in Remote Sensing Applications: Society and Environment.
