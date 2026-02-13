@@ -17,7 +17,7 @@ My current work focuses on building **intelligent, multimodal systems for remote
 ## Recent Highlights
 
 
-### February 2026 — *Computational Visual Media* (SJR Q1, IF~5.2)  
+### February 2026 — *Computational Visual Media* (SJR Q1, IF~18.6)  
 **Publication:** *NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review*  
 As the first author, I am excited to share that our paper has been accepted for publication in Computational Visual Media, with **400+ citations** as of February 2026!  
 This work provides a comprehensive and systematic review of Neural Radiance Fields in 3D vision, covering theoretical foundations, architectural variants, optimization strategies, contextualization in the post-Gaussian Splatting era.
