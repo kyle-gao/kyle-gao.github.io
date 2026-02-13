@@ -35,7 +35,7 @@ This work provides a comprehensive and systematic review of Neural Radiance Fiel
 
 ---
 
-### 2026 — *International Journal of Applied Earth Observation and Geoinformation* (SJR Q1, IF~8.6)  
+### February 2026 — *International Journal of Applied Earth Observation and Geoinformation* (SJR Q1, IF~8.6)  
 **Publication:** *High-Accuracy Water Level Estimation Using Super-Resolution Sentinel-1 Data*  
 As a co-author, I am excited to share our paper which was accepted in International Journal of Applied Earth Observation and Geoinformation.  
 By leveraging super-resolution Sentinel-1 SAR imagery, our work presents a high-accuracy framework for water level estimation that enhances hydrological monitoring and flood risk assessment.
