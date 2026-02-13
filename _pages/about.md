@@ -16,17 +16,6 @@ My current work focuses on building **intelligent, multimodal systems for remote
 
 ## Recent Highlights
 
-### December 2025 — *IGARSS 2026*  
-IGARSS 2026 conference submissions are open. 
-
-📅 **Submission deadline:** January 10, 2026  
-📄 See the submission page https://2026.ieeeigarss.org/papers.php
-
-Consider submitting an abstract, full paper, or summary of a recently published article to my Community Contributed Theme CCT.77 D.7 "Advances in GeoAI systems for Wildfire Monitoring", which I am chairing together with Prof. Liangzhi Li and Prof. Linlin Xu.
-
-See you in Washington, D.C., August 9 to 14, 2026!
-
----
 
 ### February 2026 — *Computational Visual Media* (SJR Q1, IF~5.2)  
 **Publication:** *NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review*  
@@ -46,6 +35,18 @@ By leveraging super-resolution Sentinel-1 SAR imagery, our work presents a high-
 **Publication:** *SaLSE-net: a self-attention-based local structure enhancement network for landslide point cloud segmentation*  
 As a co-author, I am excited to share our paper which was published in International Journal of Digital Earth.  
 SaLSE-net introduces a self-attention-based local structure enhancement network for precise landslide point cloud segmentation under complex geomorphological conditions.
+
+---
+
+### December 2025 — *IGARSS 2026*  
+IGARSS 2026 conference submissions are open. 
+
+📅 **Submission deadline:** January 10, 2026  
+📄 See the submission page https://2026.ieeeigarss.org/papers.php
+
+Consider submitting an abstract, full paper, or summary of a recently published article to my Community Contributed Theme CCT.77 D.7 "Advances in GeoAI systems for Wildfire Monitoring", which I am chairing together with Prof. Liangzhi Li and Prof. Linlin Xu.
+
+See you in Washington, D.C., August 9 to 14, 2026!
 
 ---
 ### November 2025 — *Remote Sensing Applications: Society and Environment* (SJR Q1, IF~4.5)  
