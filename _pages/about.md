@@ -12,7 +12,7 @@ I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering 
 My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D reconstruction**, where I explore how Gaussian Splatting and large language models can enhance spatial understanding and environmental monitoring.  
 
 I’ve authored and co-authored over **fourty one peer-reviewed papers (eight first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
-My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, and language for applications in both urban digital twins and environmental management.
+My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, language for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
 
