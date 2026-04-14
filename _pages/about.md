@@ -9,13 +9,26 @@ redirect_from:
 ## About
 
 I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**. I completed my PhD in Systems Design Engineering at the University of Waterloo in May 2025. I have a background in mathematical physics from my undergraduate and master’s studies.
-My research lies at the intersection of **GeoAI**, **remote sensing**, and **3D reconstruction**, where I explore how Gaussian Splatting and large language models can enhance spatial understanding and environmental monitoring.  
 
-I’ve authored and co-authored over **fourty one peer-reviewed papers (eight first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
+ My research focuses on large-scale 3D geospatial modeling, urban digital twins, and multimodal analysis for environmental monitoring and disaster assessment. I also have work in multiple areas of remote sensing, geoinformatics, and geoAI. 
+
+I’ve authored and co-authored over **fourty 9 peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, language for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+### May 2026 — *[CVPR 2026 Workshops](https://cvpr.thecvf.com/)*  
 
+We are pleased to share that two of our works have been accepted to CVPR 2026 workshops, where we will present preliminary results.  
+
+**Workshop Presentation** *CVPR 2026: Workshop on Foundation and Large Vision Models in Remote Sensing*  
+**Title:** *BuildingTwin: Geometrically Grounded Building-Centric 3D Reconstruction for Urban Digital Twins*  
+
+**Workshop Paper:** *CVPR 2026: MetaFood Workshop*  
+**Title:** *KitchenTwin: Semantically and Geometrically Grounded 3D Kitchen Digital Twins*  
+
+Both works explore geometrically grounded and semantically consistent 3D reconstruction for digital twin applications.  
+
+See you in Denver!
 
 ### February 2026 — *Computational Visual Media* (SJR Q1, IF~18.6)  
 **Publication:** *NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review*  
