@@ -30,6 +30,8 @@ Both works explore geometrically grounded and semantically consistent 3D reconst
 
 See you in Denver!
 
+---
+
 ### February 2026 — *Computational Visual Media* (SJR Q1, IF~18.6)  
 **Publication:** *NeRF: Neural Radiance Field in 3D Vision: A Comprehensive Review*  
 As the first author, I am excited to share that our paper has been accepted for publication in Computational Visual Media, with **400+ citations** as of February 2026!  
