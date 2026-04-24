@@ -12,7 +12,7 @@ I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering 
 
  My research focuses on large-scale 3D geospatial modeling, urban digital twins, and multimodal analysis for environmental monitoring and disaster assessment. I also have work in multiple areas of remote sensing, geoinformatics, and geoAI. 
 
-I’ve authored and co-authored over **fourty 9 peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
+I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate geospatial data, visual analysis, language for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
