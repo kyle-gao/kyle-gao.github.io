@@ -10,7 +10,7 @@ redirect_from:
 
 I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**. I completed my PhD in Systems Design Engineering at the University of Waterloo in May 2025. I have a background in mathematical physics from my undergraduate and master’s studies.
 
- My research focuses on large-scale 3D geospatial modeling, agentic systems, and multimodal analysis for urban digital twins and environmental monitoring. I also have works in multiple areas of remote sensing, geoinformatics, and geoAI. 
+My research focuses on large-scale 3D geospatial modeling, agentic systems, and multimodal analysis for urban digital twins and environmental monitoring. I also have works in multiple areas of remote sensing, geoinformatics, and geoAI. 
 
 I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
