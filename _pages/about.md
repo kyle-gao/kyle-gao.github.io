@@ -16,7 +16,24 @@ I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine fi
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
-### May 2026 — *[CVPR 2026 Workshops](https://cvpr.thecvf.com/)*  
+### July 2026 — *[25th ISPRS Congress](https://isprs2026.com/)*
+
+Attending the **25th ISPRS Congress** in Toronto with **two oral presentations** and **three poster presentations** on **3D reconstruction**, **Gaussian splatting**, **agentic AI systems**, and **large language models (LLMs) for GeoAI**.
+
+**Oral Presentations**
+- *Digital Building Analysis (DBA): Cloud-GIS-Based 3D Building Modelling and Multi-Agent AI Analytics Using Gaussian Splatting and Google Maps Platform*
+- *Advances in 3D Urban Reconstruction and Building Mesh Extraction Using Gaussian Splatting and Google Earth*
+
+**Paper & Poster**
+- *Risk-Aware LLM Agents for Geospatial Data Retrieval: Design and Preliminary Adversarial Evaluation*
+
+**Poster Presentations**
+- *VGGT-SLAM for 3D Reconstruction of Low-Altitude Remote Sensing Data: Feasibility and Limitations*
+- *Interactive 3D Scene Segmentation for Construction Sites via Gaussian Splatting and Foundation Models*
+
+I also chaired **Thematic Session 37: Multimodal Large Language Models for Remote Sensing Image Modalities**.
+
+### May 2026 — *[CVPR 2026](https://cvpr.thecvf.com/)*  
 
 We are pleased to share that two of our works have been accepted to CVPR 2026 workshops, where we will present preliminary results.  
 
