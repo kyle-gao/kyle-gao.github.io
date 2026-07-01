@@ -15,6 +15,8 @@ My research focuses on large-scale 3D geospatial modeling, agentic systems, and 
 I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
+---
+
 ## Recent Highlights
 ### July 2026 — *[25th ISPRS Congress](https://isprs2026.com/)*
 
@@ -32,6 +34,8 @@ Attending the **25th ISPRS Congress** in Toronto with **two oral presentations**
 - *Interactive 3D Scene Segmentation for Construction Sites via Gaussian Splatting and Foundation Models*
 
 I also chaired **Thematic Session 37: Multimodal Large Language Models for Remote Sensing Image Modalities**.
+
+---
 
 ### May 2026 — *[CVPR 2026](https://cvpr.thecvf.com/)*  
 
