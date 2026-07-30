@@ -1,7 +1,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Kyle Gao, PhD - Remote Sensing and 3D Vision"
+title                    : "Prof. Kyle Gao - Remote Sensing and 3D Vision"
 title_separator          : "-"
 name                     : &name "Prof. Kyle Gao"
 description              : &description "Assistant Professor, Aalto University, Department of Built Environment"
