@@ -11,9 +11,9 @@ redirect_from:
 
 I’m **Kyle (Yilin) Gao**, a **Tenure Track Assistant Professor of Geoinformatics** in the Department of Built Environment at **Aalto University**, and a **Visiting Scholar** in the Department of Computer Science and Technology at the **University of Cambridge**.
 
-I completed my PhD in Systems Design Engineering at the **University of Waterloo** in May 2025, followed by postdoctoral research in the same department. I have a background in mathematical physics from my undergraduate and master's studies.
+I completed my PhD in Systems Design Engineering at the **University of Waterloo** in May 2025, followed by a one year postdoctoral appointment in the same department, where I held an **NSERC CPRA Fellowship**, and was awarded a **Schmidt AI in Science Fellowship**. I have a background in mathematical physics from my undergraduate and master's studies.
 
-I focus on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
+I focus on 3D modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
 
 I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
