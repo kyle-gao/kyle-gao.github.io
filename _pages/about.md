@@ -8,14 +8,35 @@ redirect_from:
 ---
 ## About
 
-I’m **Kyle (Yilin) Gao**, a Postdoctoral Fellow in Systems Design Engineering at the **University of Waterloo**. I completed my PhD in Systems Design Engineering at the University of Waterloo in May 2025. I have a background in mathematical physics from my undergraduate and master’s studies.
+## About
 
-My research focuses on large-scale 3D geospatial modeling, agentic systems, and multimodal analysis for urban digital twins and environmental monitoring. I also have works in multiple areas of remote sensing, geoinformatics, and geoAI. 
+I’m **Kyle (Yilin) Gao**, a **Tenure Track Assistant Professor of Geoinformatics** in the Department of Built Environment at **Aalto University**, and a **Visiting Scholar** in the Department of Computer Science and Technology at the **University of Cambridge**.
+
+I completed my PhD in Systems Design Engineering at the **University of Waterloo** in May 2025, followed by postdoctoral research in the same department. I have a background in mathematical physics from my undergraduate and master's studies.
+
+I focus on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
 
 I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+
+---
+
+August 2026 — Joined Aalto University
+
+I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatics in the Department of Built Environment.
+
+My research focuses on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. I look forward to building an interdisciplinary research program and collaborating with colleagues across Aalto and the international geospatial AI community.
+
+---
+
+July 2026 — Visiting Scholar at the University of Cambridge
+
+I joined the Department of Computer Science and Technology at the University of Cambridge as a Visiting Scholar in the Energy and Environment Group.
+
+My research contributes to the TESSERA project, with a focus on representation learning and the application of TESSERA embeddings to studying the natural and built environment. This appointment also supports new international collaborations in GeoAI, Earth foundation models, and environmental monitoring.
+
 ### July 2026 — *[25th ISPRS Congress](https://isprs2026.com/)*
 
 Attending the **25th ISPRS Congress** in Toronto with **two oral presentations** and **three poster presentations** on **3D reconstruction**, **Gaussian splatting**, **agentic AI systems**, and **large language models (LLMs) for GeoAI**.
