@@ -20,8 +20,6 @@ My current work focuses on building **intelligent, multimodal systems for remote
 
 ## Recent Highlights
 
----
-
 August 2026 — Joined Aalto University
 
 I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatics in the Department of Built Environment.
@@ -39,6 +37,8 @@ My research contributes to the TESSERA project, with a focus on representation l
 ### July 2026 — *[25th ISPRS Congress](https://isprs2026.com/)*
 
 Attending the **25th ISPRS Congress** in Toronto with **two oral presentations** and **three poster presentations** on **3D reconstruction**, **Gaussian splatting**, **agentic AI systems**, and **large language models (LLMs) for GeoAI**.
+
+---
 
 **Oral Presentations**
 - *Digital Building Analysis (DBA): Cloud-GIS-Based 3D Building Modelling and Multi-Agent AI Analytics Using Gaussian Splatting and Google Maps Platform*
