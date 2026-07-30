@@ -3,8 +3,8 @@ locale                   : "en-US"
 site_theme               : "default"
 title                    : "Kyle Gao, PhD - Remote Sensing and 3D Vision"
 title_separator          : "-"
-name                     : &name "Kyle Gao, PhD"
-description              : &description "Postdoctoral Fellow at University of Waterloo. GeoAI, Remote Sensing, 3D Reconstruction."
+name                     : &name "Prof. Kyle Gao"
+description              : &description "Assistant Professor, Aalto University, Department of Built Environment"
 url                      : https://kyle-gao.github.io
 baseurl                  : ""
 repository               : "https://github.com/kyle-gao/kyle-gao.github.io"  # Update with your GitHub repo
@@ -13,13 +13,13 @@ repository               : "https://github.com/kyle-gao/kyle-gao.github.io"  # U
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Dr. Kyle Gao"
+  name             : "Prof. Kyle Gao"
   pronouns         :
-  bio              : "Research in remote sensing, GeoAI, 3D modeling, and agentic systems for digital twins and environmental monitoring."
-  location         : "Waterloo, Canada"
-  employer         : "University of Waterloo"
+  bio              : "Remote sensing, GeoAI, 3D computer vision, agentic systems, and digital twins, for studying built and natural environments."
+  location         : "Espoo, Finland"
+  employer         : "Aalto University"
   uri              :
-  email            : "y56gao@uwaterloo.ca"
+  email            : "kyle.gao@aalto.fi"
 
   # Academic websites
   academia         :
