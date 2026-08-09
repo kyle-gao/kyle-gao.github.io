@@ -73,7 +73,7 @@ My research focuses on large-scale 3D geospatial modelling, agentic systems in G
 
 ---
 
-July 2026 — Visiting Scholar at the University of Cambridge
+July 2026 — **Visiting Scholar at the University of Cambridge!**
 
 I joined the Department of Computer Science and Technology at the University of Cambridge as a Visiting Scholar in the Energy and Environment Group.
 
