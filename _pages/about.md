@@ -21,7 +21,7 @@ My current work focuses on building **intelligent, multimodal systems for remote
 ## Recent Highlights
 ### IGARSS 2026
 
-I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9–14! I’ll be presenting two papers and chairing sessions covering GeoAI, vision-language models, LiDAR, and wildfire monitoring.
+I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9–14! I’ll be presenting two papers and chairing seven sessions covering GeoAI, vision-language models, LiDAR, and wildfire monitoring.
 
 #### Paper Presentations
 
@@ -31,15 +31,13 @@ I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9
 **Time:** Tuesday, 11 August, 08:30–09:45
 **Format:** Oral
 
-[Paper](https://2026.ieeeigarss.org/view_paper.php?PaperNum=2880&SessionID=1700) · [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1700)
+---
 
 **THP2.PI.5: Tree Canopy Segmentation in Low-Data Regimes Using Pretrained Deep Models**
 
 **Session:** THP2.PI: Remote Sensing and Geospatial Modeling of Wildfire Risk, Detection, and Recovery
 **Time:** Thursday, 13 August, 15:00–16:15
 **Format:** Poster, Board PI.5
-
-[Paper](https://2026.ieeeigarss.org/view_paper.php?PaperNum=2993&SessionID=1708) · [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
 
 #### Session Chairing
 
@@ -48,29 +46,26 @@ I’ll also be chairing the following sessions throughout the conference:
 **TU1.R6: Advances in GeoAI Systems for Wildfire Monitoring**
 Tuesday, 11 August, 08:30–09:45 · Oral · Cardozo
 
-[Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1700)
-
-**WE1.R15: Vision-Language Models for Remote Sensing (1/3)**
+**WE1.R15: Vision-Language Models for Remote Sensing: Foundations, Applications, and Challenges (1/3)**
 Wednesday, 12 August, 08:30–09:45 · Oral · Jefferson West
 
-**WE2.R15: Vision-Language Models for Remote Sensing (2/3)**
+**WE2.R15: Vision-Language Models for Remote Sensing: Foundations, Applications, and Challenges (2/3)**
 Wednesday, 12 August, 11:00–12:15 · Oral · Jefferson West
 
-**WE3.R15: Vision-Language Models for Remote Sensing (3/3)**
+**WE3.R15: Vision-Language Models for Remote Sensing: Foundations, Applications, and Challenges (3/3)**
 Wednesday, 12 August, 13:45–15:00 · Oral · Jefferson West
 
 **TH1.R10: Scalable and Efficient Processing of Large-Scale LiDAR Point Clouds**
 Thursday, 13 August, 08:30–09:45 · Oral · Gunston
 
-**THP2.PC: Vision-Language Models for Remote Sensing**
+**THP2.PC: Vision-Language Models for Remote Sensing: Foundations, Applications, and Challenges**
 Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area C
 
 **THP2.PI: Remote Sensing and Geospatial Modeling of Wildfire Risk, Detection, and Recovery**
 Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area I
 
-[Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
-
 Looking forward to an exciting week of research, discussions, and collaborations across **remote sensing, photogrammetry, computer vision, and GeoAI**. See you at IGARSS 2026!
+
 ---
 ###August 2026 — Joined Aalto University
 
