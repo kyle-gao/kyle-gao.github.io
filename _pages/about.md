@@ -31,8 +31,6 @@ I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9
 **Time:** Tuesday, 11 August, 08:30–09:45
 **Format:** Oral
 
----
-
 **THP2.PI.5: Tree Canopy Segmentation in Low-Data Regimes Using Pretrained Deep Models**
 
 **Session:** THP2.PI: Remote Sensing and Geospatial Modeling of Wildfire Risk, Detection, and Recovery
