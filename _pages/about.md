@@ -19,19 +19,11 @@ I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine fi
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
-
-August 2026 — Joined Aalto University
-
-I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatics in the Department of Built Environment.
-
-My research focuses on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. I look forward to building an interdisciplinary research program and collaborating with colleagues across Aalto and the international geospatial AI community.
-
----
-## IGARSS 2026
+### IGARSS 2026
 
 I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9–14! I’ll be presenting two papers and chairing sessions covering GeoAI, vision-language models, LiDAR, and wildfire monitoring.
 
-### Paper Presentations
+#### Paper Presentations
 
 **TU1.R6.4: Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction**
 
@@ -49,7 +41,7 @@ I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9
 
 [Paper](https://2026.ieeeigarss.org/view_paper.php?PaperNum=2993&SessionID=1708) · [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
 
-### Session Chairing
+#### Session Chairing
 
 I’ll also be chairing the following sessions throughout the conference:
 
@@ -79,6 +71,13 @@ Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area I
 [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
 
 Looking forward to an exciting week of research, discussions, and collaborations across **remote sensing, photogrammetry, computer vision, and GeoAI**. See you at IGARSS 2026!
+---
+###August 2026 — Joined Aalto University
+
+I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatics in the Department of Built Environment.
+
+My research focuses on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. I look forward to building an interdisciplinary research program and collaborating with colleagues across Aalto and the international geospatial AI community.
+
 ---
 
 July 2026 — Visiting Scholar at the University of Cambridge
