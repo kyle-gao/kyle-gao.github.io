@@ -27,6 +27,59 @@ I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatic
 My research focuses on large-scale 3D geospatial modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. I look forward to building an interdisciplinary research program and collaborating with colleagues across Aalto and the international geospatial AI community.
 
 ---
+## IGARSS 2026
+
+I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9–14! I’ll be presenting two papers and chairing sessions covering GeoAI, vision-language models, LiDAR, and wildfire monitoring.
+
+### Paper Presentations
+
+**TU1.R6.4: Rapid Forest Fuel Load Estimation via Virtual Remote Sensing and Metric-Scale Feed-Forward 3D Reconstruction**
+
+**Session:** TU1.R6: Advances in GeoAI Systems for Wildfire Monitoring
+**Time:** Tuesday, 11 August, 08:30–09:45
+**Format:** Oral
+
+[Paper](https://2026.ieeeigarss.org/view_paper.php?PaperNum=2880&SessionID=1700) · [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1700)
+
+**THP2.PI.5: Tree Canopy Segmentation in Low-Data Regimes Using Pretrained Deep Models**
+
+**Session:** THP2.PI: Remote Sensing and Geospatial Modeling of Wildfire Risk, Detection, and Recovery
+**Time:** Thursday, 13 August, 15:00–16:15
+**Format:** Poster, Board PI.5
+
+[Paper](https://2026.ieeeigarss.org/view_paper.php?PaperNum=2993&SessionID=1708) · [Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
+
+### Session Chairing
+
+I’ll also be chairing the following sessions throughout the conference:
+
+**TU1.R6: Advances in GeoAI Systems for Wildfire Monitoring**
+Tuesday, 11 August, 08:30–09:45 · Oral · Cardozo
+
+[Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1700)
+
+**WE1.R15: Vision-Language Models for Remote Sensing (1/3)**
+Wednesday, 12 August, 08:30–09:45 · Oral · Jefferson West
+
+**WE2.R15: Vision-Language Models for Remote Sensing (2/3)**
+Wednesday, 12 August, 11:00–12:15 · Oral · Jefferson West
+
+**WE3.R15: Vision-Language Models for Remote Sensing (3/3)**
+Wednesday, 12 August, 13:45–15:00 · Oral · Jefferson West
+
+**TH1.R10: Scalable and Efficient Processing of Large-Scale LiDAR Point Clouds**
+Thursday, 13 August, 08:30–09:45 · Oral · Gunston
+
+**THP2.PC: Vision-Language Models for Remote Sensing**
+Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area C
+
+**THP2.PI: Remote Sensing and Geospatial Modeling of Wildfire Risk, Detection, and Recovery**
+Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area I
+
+[Session](https://2026.ieeeigarss.org/view_session.php?SessionID=1708)
+
+Looking forward to an exciting week of research, discussions, and collaborations across **remote sensing, photogrammetry, computer vision, and GeoAI**. See you at IGARSS 2026!
+---
 
 July 2026 — Visiting Scholar at the University of Cambridge
 
@@ -34,11 +87,11 @@ I joined the Department of Computer Science and Technology at the University of 
 
 My research contributes to the TESSERA project, with a focus on representation learning and the application of TESSERA embeddings to studying the natural and built environment. This appointment also supports new international collaborations in GeoAI, Earth foundation models, and environmental monitoring.
 
+---
+
 ### July 2026 — *[25th ISPRS Congress](https://isprs2026.com/)*
 
 Attending the **25th ISPRS Congress** in Toronto with **two oral presentations** and **three poster presentations** on **3D reconstruction**, **Gaussian splatting**, **agentic AI systems**, and **large language models (LLMs) for GeoAI**.
-
----
 
 **Oral Presentations**
 - *Digital Building Analysis (DBA): Cloud-GIS-Based 3D Building Modelling and Multi-Agent AI Analytics Using Gaussian Splatting and Google Maps Platform*
@@ -51,7 +104,7 @@ Attending the **25th ISPRS Congress** in Toronto with **two oral presentations**
 - *VGGT-SLAM for 3D Reconstruction of Low-Altitude Remote Sensing Data: Feasibility and Limitations*
 - *Interactive 3D Scene Segmentation for Construction Sites via Gaussian Splatting and Foundation Models*
 
-I also chaired **Thematic Session 37: Multimodal Large Language Models for Remote Sensing Image Modalities**.
+I also chaired **Thematic Session 37: Multimodal Large Language Models for Remote Sensing Image Modalities**, and **Invited Session: Canadian Remote Sensing for Urban Applications**
 
 ---
 
