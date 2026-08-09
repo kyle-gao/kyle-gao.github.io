@@ -65,7 +65,7 @@ Thursday, 13 August, 15:00–16:15 · Poster · Columbia, Poster Area I
 Looking forward to an exciting week of research, discussions, and collaborations across **remote sensing, photogrammetry, computer vision, and GeoAI**. See you at IGARSS 2026!
 
 ---
-###August 2026 — Joined Aalto University
+August 2026 — **Joined Aalto University!**
 
 I joined Aalto University as a Tenure Track Assistant Professor of Geoinformatics in the Department of Built Environment.
 
