@@ -15,10 +15,41 @@ I completed my PhD in Systems Design Engineering at the **University of Waterloo
 
 I focus on 3D modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
 
-I’ve authored and co-authored over **fourty nine peer-reviewed papers (nine first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
+I’ve authored and co-authored over **fifty-one peer-reviewed papers (ten first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+### October 2026 — *IEEE Geoscience and Remote Sensing Letters (GRSL)* (SJR Q1, IF~4.5)  
+**Publication:** *Securing Multi-Agent GIS Systems: Risk Evaluation and Prompt Hardening Optimization*  
+As co-first author, I am excited to share that our paper has been accepted for publication in **IEEE GRSL**!  
+We present a security framework for multi-agent GIS systems, combining a red-teaming setup (an adaptive attacker LLM paired with a deterministic judge) with a prompt hardening optimization method that improves robustness to adversarial attacks without degrading task performance.  
+Thank you to my co-first author **Pranavi Kotta** and all coauthors. The preprint is available on [arXiv](https://arxiv.org/abs/2606.17092).
+
+---
+
+### October 2026 — *[NeurIPS 2026](https://neurips.cc/Conferences/2026): REO-2 Workshop*  
+**Workshop Paper:** *What or Where? Class–Site Geometry and Geographic Transfer in Geospatial Embeddings*  
+Our paper has been accepted to the **2nd Workshop on Advances in Representation Learning for Earth Observation (REO-2)** at NeurIPS 2026, held at the Paris location on December 12.  
+Congratulations to the first author, **Kristie Hu**, and all coauthors.  
+See you in Paris!
+
+---
+
+### October 2026 — **Recent Co-Authored Publications**  
+I am happy to share several recent co-authored papers. Thank you to all first authors and collaborators for their excellent work!
+
+**Journal Papers**
+- *Coupled Registration and Change Detection for Remote Sensing Images: A Joint Optimization Framework*, **IEEE Transactions on Geoscience and Remote Sensing** (SJR Q1, IF~8.6), Early Access
+- *Oversegmentation-Based Efficient Semantic Annotation for Large-Scale LiDAR Point Clouds*, **Expert Systems with Applications** (SJR Q1, IF~9.4)
+- *NU-TSC: Weakly Supervised Forest/Non-Forest Mapping Using Public Land Cover Products*, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (SJR Q1, IF~6.3)
+- *SGRA: A Spectro-Geometric Rectification Dual-Attention Transformer for Cross-Domain Building Change Detection*, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (SJR Q1, IF~6.3)
+- *Leveraging Multi-View Images to Learn Domain-Invariant Discriminative Embeddings for Cross-View Geo-Localization*, **IEEE Transactions on Circuits and Systems for Video Technology** (SJR Q1, IF~11.1)
+
+**Conference Paper**
+- *Label-Free Forest–Urban Segmentation Using AlphaEarth Foundations*, **IGARSS 2026**
+
+---
+
 ### IGARSS 2026
 
 I’m excited to be attending **IGARSS 2026** in Washington, D.C., from August 9–14! I’ll be presenting two papers and chairing seven sessions covering GeoAI, vision-language models, LiDAR, and wildfire monitoring.
