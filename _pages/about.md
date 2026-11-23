@@ -9,7 +9,7 @@ redirect_from:
 
 ## About
 
-I’m **Kyle (Yilin) Gao**, a **Tenure Track Assistant Professor of Geoinformatics** in the Department of Built Environment at **Aalto University**, and a **Visiting Scholar** in the Department of Computer Science and Technology at the **University of Cambridge**.
+I’m **Kyle (Yilin) Gao**, a **Tenure Track Assistant Professor of Geoinformatics** in the Department of Built Environment at **Aalto University**, and a **Visiting Scholar** in the Department of Computer Science and Technology at the **University of Cambridge**. I also serve as an **Associate Editor** of *IEEE Geoscience and Remote Sensing Letters*.
 
 I completed my PhD in Systems Design Engineering at the **University of Waterloo** in May 2025, followed by a one year postdoctoral appointment in the same department, where I held an **NSERC CPRA Fellowship**, and was awarded a **Schmidt AI in Science Fellowship**. I have a background in mathematical physics from my undergraduate and master's studies.
 
@@ -19,6 +19,15 @@ I’ve authored and co-authored over **fifty-one peer-reviewed papers (ten first
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+### November 2026 — *IEEE Geoscience and Remote Sensing Letters (GRSL)* (SJR Q1, IF~4.8)  
+**Role:** Associate Editor  
+I have been appointed **Associate Editor** of **IEEE Geoscience and Remote Sensing Letters**!  
+I look forward to working with Editor-in-Chief Dr. [Ronny Hänsch](https://www.linkedin.com/in/ronny-h%C3%A4nsch/) and the editorial team.  
+I will be handling submissions on geospatial (satellite) and geometric (3D) foundation models, as well as LLMs and VLMs for geospatial analysis. I may also be reaching out to some of you for peer review very soon 😁 🤝!  
+Submit your high-quality short papers to **IEEE GRSL**!
+
+---
+
 ### November 2026 — *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* (IF~20.4, JUFO 3)  
 **Publication:** *INTEGER++: Scalable Unsupervised Point Cloud Registration via Mining and Transferring Feature-Geometry Coherence*  
 As a co-author, I am excited to share our paper published in **IEEE TPAMI**!  
@@ -48,7 +57,7 @@ See you in Paris!
 I am happy to share several recent co-authored papers. Thank you to all first authors and collaborators for their excellent work!
 
 **Journal Papers**
-- *Coupled Registration and Change Detection for Remote Sensing Images: A Joint Optimization Framework*, **IEEE Transactions on Geoscience and Remote Sensing** (SJR Q1, IF~8.6), Early Access
+- *Coupled Registration and Change Detection for Remote Sensing Images: A Joint Optimization Framework*, **IEEE Transactions on Geoscience and Remote Sensing** (SJR Q1, IF~9.4), Early Access
 - *Oversegmentation-Based Efficient Semantic Annotation for Large-Scale LiDAR Point Clouds*, **Expert Systems with Applications** (SJR Q1, IF~9.4)
 - *NU-TSC: Weakly Supervised Forest/Non-Forest Mapping Using Public Land Cover Products*, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (SJR Q1, IF~6.3)
 - *SGRA: A Spectro-Geometric Rectification Dual-Attention Transformer for Cross-Domain Building Change Detection*, **IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing** (SJR Q1, IF~6.3)
