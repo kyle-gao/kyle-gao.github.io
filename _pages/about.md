@@ -19,6 +19,15 @@ I’ve authored and co-authored over **fifty-one peer-reviewed papers (ten first
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
+### November 2026 — *IEEE Transactions on Pattern Analysis and Machine Intelligence (TPAMI)* (IF~20.4, JUFO 3)  
+**Publication:** *INTEGER++: Scalable Unsupervised Point Cloud Registration via Mining and Transferring Feature-Geometry Coherence*  
+As a co-author, I am excited to share our paper published in **IEEE TPAMI**!  
+Aligning LiDAR scans is a core step in 3D mapping for autonomous driving and robotics, but learning-based methods usually require costly ground-truth poses for training. INTEGER++ learns registration without pose labels by checking that learned feature similarity agrees with geometric consistency. It achieves state-of-the-art unsupervised accuracy outdoors and rivals supervised methods when scans are captured far apart.  
+Thanks to my collaborators at Xiamen University, especially first author **Kezheng Xiong**. Read the paper [here](https://doi.org/10.1109/TPAMI.2026.3754044).  
+*IF: 2025 JIF (Clarivate JCR 2026).*
+
+---
+
 ### October 2026 — *IEEE Geoscience and Remote Sensing Letters (GRSL)* (SJR Q1, IF~4.5)  
 **Publication:** *Securing Multi-Agent GIS Systems: Risk Evaluation and Prompt Hardening Optimization*  
 As co-first author, I am excited to share that our paper has been accepted for publication in **IEEE GRSL**!  
