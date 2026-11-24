@@ -15,7 +15,7 @@ I completed my PhD in Systems Design Engineering at the **University of Waterloo
 
 I focus on 3D modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
 
-I’ve authored and co-authored over **fifty-one peer-reviewed papers (ten first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
+I’ve authored and co-authored over **fifty peer-reviewed papers (ten first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
 My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
 
 ## Recent Highlights
