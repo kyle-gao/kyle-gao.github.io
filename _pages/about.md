@@ -13,10 +13,10 @@ I’m **Kyle (Yilin) Gao**, a **Tenure Track Assistant Professor of Geoinformati
 
 I completed my PhD in Systems Design Engineering at the **University of Waterloo** in May 2025, followed by a one year postdoctoral appointment in the same department, where I held an **NSERC CPRA Fellowship**, and was awarded a **Schmidt AI in Science Fellowship**. I have a background in mathematical physics from my undergraduate and master's studies.
 
-I focus on 3D modelling, agentic systems in GIS, and Earth foundation models for studying the natural and built environment. My broader research spans remote sensing, geoinformatics, GeoAI, 3D computer vision, and multimodal machine learning, and various applications thereof.
+My group develops computer vision methods for studying the built and natural environments, along two directions:
 
-I’ve authored and co-authored over **fifty peer-reviewed papers (ten first-authorships)**, including publications in *IEEE Transactions on Geoscience and Remote Sensing* and the *ISPRS Journal of Photogrammetry and Remote Sensing*.
-My current work focuses on building **intelligent, multimodal systems for remote sensing** that integrate 3D reconstruction, geospatial data, visual analysis, and agentic systems for applications in both urban digital twins and environmental management.
+1. **3D/4D reconstruction, view synthesis, and analysis**, including geometric foundation models, with applications to large-scale 3D city modelling, autonomous systems, and physical AI.
+2. **Computer vision for remote sensing**, including geospatial foundation models, with applications to monitoring croplands, forests, the Arctic, and urban environments.
 
 ## Recent Highlights
 ### November 2026 — *IEEE Geoscience and Remote Sensing Letters (GRSL)* (SJR Q1, IF~4.8)  
@@ -32,7 +32,7 @@ Submit your high-quality short papers to **IEEE GRSL**!
 **Publication:** *INTEGER++: Scalable Unsupervised Point Cloud Registration via Mining and Transferring Feature-Geometry Coherence*  
 As a co-author, I am excited to share our paper published in **IEEE TPAMI**!  
 Aligning LiDAR scans is a core step in 3D mapping for autonomous driving and robotics, but learning-based methods usually require costly ground-truth poses for training. INTEGER++ learns registration without pose labels by checking that learned feature similarity agrees with geometric consistency. It achieves state-of-the-art unsupervised accuracy outdoors and rivals supervised methods when scans are captured far apart.  
-Thanks to my collaborators at Xiamen University, especially first author **Kezheng Xiong**. Read the paper [here](https://doi.org/10.1109/TPAMI.2026.3754044).  
+Thanks to my collaborators at Xiamen University. Read the paper [here](https://doi.org/10.1109/TPAMI.2026.3754044).  
 *IF: 2025 JIF (Clarivate JCR 2026).*
 
 ---
